@@ -1,0 +1,13 @@
+isim="Berfin"
+print(isim[-1])
+#çikti,n
+print(isim[-2])
+#çikti,i
+print(isim[-3])
+#çikti,f
+print(isim[-4])
+#çikti,r
+print(isim[-5])
+#çikti,e
+print(isim[-6])
+#çikti,B
